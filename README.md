@@ -9,4 +9,4 @@
 [![Linkedin Badge](https://img.shields.io/badge/-huseyinbabal-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/huseyinbabal/)](https://www.linkedin.com/in/huseyinbabal/)
 [![Twitter Badge](https://img.shields.io/badge/-huseyinbabal-blue?style=flat-square&logo=Twitter&logoColor=white&link=https://www.twitter.com/huseyinbabal/)](https://www.twitter.com/huseyinbabal/)
 [![Website Badge](https://img.shields.io/website?down_color=red&down_message=down&label=https%3A%2F%2Fhuseyinbabal.com&up_color=green&up_message=up&url=https%3A%2F%2Fhuseyinbabal.com)](https://huseyinbabal.com)
-[![Twitch Badge](https://img.shields.io/twitch/status/huseyinbabal?style=social)](https://huseyinbabal.com)
+[![Twitch Badge](https://img.shields.io/twitch/status/huseyinbabal?style=social)](https://www.twitch.tv/huseyinbabal)
