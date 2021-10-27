@@ -1,7 +1,7 @@
 ### Hi there 👋 I am Huseyin BABAL
 
 - 🔭 I’m currently working on Hazelcast Cloud
-- 👯 I’m looking to collaborate on online pairing session with anyone interested in Software Development
+- 👯 Doing regular Twitch streams [here](twitch.tv/huseyinbabal)
 - 💬 Ask me about Kubernetes, Microservices, Java, Golang, AWS, GCP, Azure
 - 📫 How to reach me: huseyinbabal88 at gmail dot com
 - 😄 Pronouns: he/him
