@@ -5,7 +5,7 @@
 - 💬 Ask me about Kubernetes, Microservices, Java, Golang, AWS, GCP, Azure
 - 📫 How to reach me: huseyinbabal88 at gmail dot com
 - 😄 Pronouns: he/him
-- 📖 You can see my articles [here](https://huseyinbabal.com)
+- 📖  You can see my articles [here](https://huseyinbabal.com)
 - 🎙️ You can see my talks [here](https://huseyinbabal.com/my-talks/)
 
 [![Linkedin Badge](https://img.shields.io/badge/-huseyinbabal-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/huseyinbabal/)](https://www.linkedin.com/in/huseyinbabal/)
