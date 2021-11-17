@@ -9,6 +9,7 @@
 - 🎙️ You can see my talks [here](https://huseyinbabal.com/my-talks/)
 
 [![Linkedin Badge](https://img.shields.io/badge/-huseyinbabal-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/huseyinbabal/)](https://www.linkedin.com/in/huseyinbabal/)
+[![Stack Exchange reputation](https://img.shields.io/stackexchange/stackoverflow/r/1796105)](https://stackoverflow.com/users/1796105/h%c3%bcseyin-babal)
 [![Twitter Badge](https://img.shields.io/badge/-huseyinbabal-blue?style=flat-square&logo=Twitter&logoColor=white&link=https://www.twitter.com/huseyinbabal/)](https://www.twitter.com/huseyinbabal/)
 [![Website Badge](https://img.shields.io/website?down_color=red&down_message=down&label=https%3A%2F%2Fhuseyinbabal.com&up_color=green&up_message=up&url=https%3A%2F%2Fhuseyinbabal.com)](https://huseyinbabal.com)
 [![Twitch Badge](https://img.shields.io/twitch/status/huseyinbabal?style=social)](https://www.twitch.tv/huseyinbabal)
