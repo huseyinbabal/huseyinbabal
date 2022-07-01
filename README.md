@@ -1,5 +1,6 @@
 ### Hi there 👋 I am Huseyin BABAL
 
+- 📕 Author of the book [gRPC Microservices in Go](https://shortener.manning.com/44lB)
 - 🔭 I’m currently working on Hazelcast Cloud
 - 👯 Doing regular Twitch streams [here](https://twitch.tv/huseyinbabal)
 - 💬 Ask me about Kubernetes, Microservices, Java, Golang, AWS, GCP, Azure
