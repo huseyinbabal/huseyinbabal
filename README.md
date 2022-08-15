@@ -16,3 +16,4 @@
 [![Twitch Badge](https://img.shields.io/twitch/status/huseyinbabal?style=social)](https://www.twitch.tv/huseyinbabal)
 [![Discord Badge](https://img.shields.io/discord/847031200665436200?label=Discord)](https://discord.gg/CDVZpPMYBH)
 [![Website](https://img.shields.io/website?label=LiveCodingTurkey&url=https%3A%2F%2Fkommunity.com%2Flivecodingturkey)](https://kommunity.com/livecodingturkey)
+![Reddit User Karma](https://img.shields.io/reddit/user-karma/combined/huseyinbabal?label=huseyinbabal&style=social)
