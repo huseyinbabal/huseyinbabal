@@ -1,4 +1,6 @@
 ### Hi there 👋 I am Huseyin BABAL
+> **News**
+> My podcasts about Programming, Kubernetes, Cloud is available [here](https://anchor.fm/huseyin-babal)
 
 - 📕 Author of the book [gRPC Microservices in Go](https://shortener.manning.com/44lB)
 - 🔭 I’m currently working for Kubeshop
