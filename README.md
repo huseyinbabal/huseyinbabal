@@ -1,5 +1,5 @@
 ### Hi there 👋 I am Huseyin BABAL
-> **News**
+> **Note**
 > My podcasts about Programming, Kubernetes, Cloud is available [here](https://anchor.fm/huseyin-babal)
 
 - 📕 Author of the book [gRPC Microservices in Go](https://shortener.manning.com/44lB)
