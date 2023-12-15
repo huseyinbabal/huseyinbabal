@@ -3,14 +3,13 @@
 > My podcasts about Programming, Kubernetes, Cloud is available [here](https://anchor.fm/huseyin-babal)
 
 - 📕 Author of the book [gRPC Microservices in Go](https://shortener.manning.com/44lB)
-- 🔭 I’m currently working for Kubeshop
 - 👯 Doing regular Twitch streams [here](https://twitch.tv/huseyinbabal)
 - 💬 Ask me about Kubernetes, Microservices, Java, Golang, AWS, GCP, Azure
 - 📫 How to reach me: huseyinbabal88 at gmail dot com
 - 😄 Pronouns: he/him
-- 📖  You can see my articles [here](https://huseyinbabal.com)
+- 📖 You can see my articles [here](https://huseyinbabal.com)
 - 🎙️ You can see my talks [here](https://huseyinbabal.com/my-talks/)
-- ☕   You can buy me a coffee [here](https://www.buymeacoffee.com/huseyinbabal) 
+- ☕  You can buy me a coffee [here](https://www.buymeacoffee.com/huseyinbabal) 
 
 [![Linkedin Badge](https://img.shields.io/badge/-huseyinbabal-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/huseyinbabal/)](https://www.linkedin.com/in/huseyinbabal/)
 [![Stack Exchange reputation](https://img.shields.io/stackexchange/stackoverflow/r/1796105?style=flat-square)](https://stackoverflow.com/users/1796105/h%c3%bcseyin-babal)
