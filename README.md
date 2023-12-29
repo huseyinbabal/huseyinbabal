@@ -9,8 +9,10 @@
 - 😄 Pronouns: he/him
 - 📖 You can see my articles [here](https://huseyinbabal.com)
 - 🎙️ You can see my talks [here](https://huseyinbabal.com/my-talks/)
-- ☕  You can buy me a coffee [here](https://www.buymeacoffee.com/huseyinbabal) 
+- ☕  You can buy me a coffee [here](https://www.buymeacoffee.com/huseyinbabal)
+- ☁️  Google Developer Expert profiler [here](https://g.dev/huseyinbabal)
 
+[![Google Developer Expert](https://img.shields.io/reddit/user-karma/combined/huseyinbabal?label=huseyinbabal&style=social)
 [![Linkedin Badge](https://img.shields.io/badge/-huseyinbabal-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/huseyinbabal/)](https://www.linkedin.com/in/huseyinbabal/)
 [![Stack Exchange reputation](https://img.shields.io/stackexchange/stackoverflow/r/1796105?style=flat-square)](https://stackoverflow.com/users/1796105/h%c3%bcseyin-babal)
 [![Twitter Badge](https://img.shields.io/badge/-huseyinbabal-blue?style=flat-square&logo=Twitter&logoColor=white&link=https://www.twitter.com/huseyinbabal/)](https://www.twitter.com/huseyinbabal/)
