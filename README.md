@@ -3,7 +3,7 @@
 > My podcasts about Programming, Kubernetes, Cloud is available [here](https://anchor.fm/huseyin-babal)
 
 - 📕 Author of the book [gRPC Microservices in Go](https://www.amazon.com/gRPC-Microservices-Go-H%C3%BCseyin-Babal/dp/1633439208)
-- 👯 Doing regular Twitch streams [here](https://twitch.tv/huseyinbabal)
+- 👯 Doing regular Twitch streams [here](https://twitch.tv/huseyinbabal), Kick streams [here](https://kick.com/huseyinbabal)
 - 💬 Ask me about Kubernetes, Microservices, Java, Golang, AWS, GCP, Azure
 - 📫 How to reach me: huseyinbabal88 at gmail dot com
 - 😄 Pronouns: he/him
