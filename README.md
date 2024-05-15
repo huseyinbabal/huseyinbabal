@@ -12,7 +12,7 @@
 - ☕  You can buy me a coffee [here](https://www.buymeacoffee.com/huseyinbabal)
 - ☁️  Google Developer Expert profile [here](https://g.dev/huseyinbabal)
 
-[![Google Developer Expert](https://img.shields.io/website?url=https%3A%2F%2Fg.dev%2Fhuseyinbabal)
+[![Google Developer Expoert](https://img.shields.io/website?label=GoogleDeveloperExpert&url=https://g.dev/huseyinbabal)](https://g.dev/huseyinbabal)
 [![Linkedin Badge](https://img.shields.io/badge/-huseyinbabal-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/huseyinbabal/)](https://www.linkedin.com/in/huseyinbabal/)
 [![Stack Exchange reputation](https://img.shields.io/stackexchange/stackoverflow/r/1796105?style=flat-square)](https://stackoverflow.com/users/1796105/h%c3%bcseyin-babal)
 [![Twitter Badge](https://img.shields.io/badge/-huseyinbabal-blue?style=flat-square&logo=Twitter&logoColor=white&link=https://www.twitter.com/huseyinbabal/)](https://www.twitter.com/huseyinbabal/)
