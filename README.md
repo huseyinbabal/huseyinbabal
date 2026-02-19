@@ -11,7 +11,6 @@
 - 📖 You can see my articles [here](https://huseyinbabal.com)
 - 🎙️ You can see my talks [here](https://huseyinbabal.com/my-talks/)
 - ☕  You can buy me a coffee [here](https://www.buymeacoffee.com/huseyinbabal)
-- ☁️  Google Developer Expert profile [here](https://g.dev/huseyinbabal)
 
 [![Google Developer Expoert](https://img.shields.io/website?label=GoogleDeveloperExpert&url=https://g.dev/huseyinbabal)](https://g.dev/huseyinbabal)
 [![Linkedin Badge](https://img.shields.io/badge/-huseyinbabal-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/huseyinbabal/)](https://www.linkedin.com/in/huseyinbabal/)
