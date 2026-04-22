@@ -12,6 +12,14 @@
 - 🎙️ You can see my talks [here](https://huseyinbabal.com/my-talks/)
 - ☕  You can buy me a coffee [here](https://www.buymeacoffee.com/huseyinbabal)
 
+### 📱 My Apps
+
+| App | Description | Link |
+|-----|-------------|------|
+| **Burnly AI** | AI-powered calorie & nutrition tracker | [burnlyai.app](https://burnlyai.app) |
+| **Gemto!** | Gamified chores, quizzes & rewards for kids | [gemto.app](https://gemto.app) |
+| **FitScroll** | Earn screen time by exercising | [fit-scroll.app](https://fit-scroll.app) |
+
 [![Google Developer Expoert](https://img.shields.io/website?label=GoogleDeveloperExpert&url=https://g.dev/huseyinbabal)](https://g.dev/huseyinbabal)
 [![Linkedin Badge](https://img.shields.io/badge/-huseyinbabal-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/huseyinbabal/)](https://www.linkedin.com/in/huseyinbabal/)
 [![Stack Exchange reputation](https://img.shields.io/stackexchange/stackoverflow/r/1796105?style=flat-square)](https://stackoverflow.com/users/1796105/h%c3%bcseyin-babal)
