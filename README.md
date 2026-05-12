@@ -19,6 +19,7 @@
 | **Burnly AI** | AI-powered calorie & nutrition tracker | [burnlyai.app](https://burnlyai.app) |
 | **Gemto!** | Gamified chores, quizzes & rewards for kids | [gemto.app](https://gemto.app) |
 | **FitScroll** | Earn screen time by exercising | [fit-scroll.app](https://fit-scroll.app) |
+| **Arrowed** | Slide arrow puzzle | [arrowed.app](https://apps.apple.com/us/app/arrowed-slide-arrow-puzzle/id6764190086) |
 
 [![Google Developer Expoert](https://img.shields.io/website?label=GoogleDeveloperExpert&url=https://g.dev/huseyinbabal)](https://g.dev/huseyinbabal)
 [![Linkedin Badge](https://img.shields.io/badge/-huseyinbabal-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/huseyinbabal/)](https://www.linkedin.com/in/huseyinbabal/)
